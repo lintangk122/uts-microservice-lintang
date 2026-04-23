@@ -1,0 +1,12 @@
+{
+    "name": "notification-worker",
+    "version": "1.0.0",
+    "description": "Consumer for ActiveMQ Registration Queue",
+    "main": "worker.js",
+    "scripts": {
+        "start": "node worker.js"
+    },
+    "dependencies": {
+        "stompit": "^1.0.0"
+    }
+}
